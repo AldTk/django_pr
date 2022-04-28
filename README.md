@@ -1,2 +1,2 @@
-# djngoprjct
+# django_pr
  
